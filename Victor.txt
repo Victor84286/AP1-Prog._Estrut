@@ -1,0 +1,8 @@
+Ficha de Victor / halfling:
+
+STR 16
+DEX 15
+CON 15
+INT 12
+WIS 10
+CHA 11
